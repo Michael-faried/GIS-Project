@@ -19,3 +19,4 @@
 14. Print Exif Tags for these images
 15. Print GPS Tags/Info for each image indicating which is geotagged & which is not
 16. Print the latitude & longitude for each geotagged image
+    
